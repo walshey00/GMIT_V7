@@ -2,6 +2,7 @@ package com.teamtreehouse.oslist;
 
 import android.content.Intent;
 import android.content.res.Configuration;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
@@ -13,6 +14,12 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
+import android.app.Activity;
+import android.os.Bundle;
+import android.text.Html;
+import android.widget.TextView;
+
+import com.indooratlas.android.sdk.examples.ListExamplesActivity;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -39,7 +46,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void addDrawerItems() {
-        String[] osArray = { "Home", "Planner", "Gps", "360 tour" };
+        String[] osArray = { "Home", "Planner", "Gps", "360 tour", "IndoorAtlas","VR" };
         mAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, osArray);
         mDrawerList.setAdapter(mAdapter);
 
@@ -62,7 +69,19 @@ public class MainActivity extends ActionBarActivity {
                 if(position == 3)
                 {
 
-                    Intent myIntent =  new Intent(MainActivity.this, v_tour.class);
+                    Uri webpage = Uri.parse("http://www.rhineroversfc.com");
+                    Intent webIntent = new Intent(Intent.ACTION_VIEW, webpage);
+                }
+                if(position == 4)
+                {
+
+                    Intent myIntent =  new Intent(MainActivity.this, ListExamplesActivity.class);
+                    startActivityForResult(myIntent, 0);
+                }
+                if(position == 5)
+                {
+
+                    Intent myIntent =  new Intent(MainActivity.this, ListExamplesActivity.class);
                     startActivityForResult(myIntent, 0);
                 }
 
@@ -90,6 +109,16 @@ public class MainActivity extends ActionBarActivity {
 
         mDrawerToggle.setDrawerIndicatorEnabled(true);
         mDrawerLayout.setDrawerListener(mDrawerToggle);
+    }
+
+    public class Main extends Activity {
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            final TextView content = new TextView(this);
+            content.setText(Html.fromHtml("first<br><b>second</b>"));
+            setContentView(content);
+        }
     }
 
     @Override
@@ -131,4 +160,6 @@ public class MainActivity extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
 }

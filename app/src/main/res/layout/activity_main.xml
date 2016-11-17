@@ -35,6 +35,16 @@
             android:layout_marginRight="45dp"
             android:layout_marginEnd="45dp" />
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text=""
+            android:textSize="24sp"
+            android:gravity="center"
+            android:layout_marginTop="150dp"
+            android:id="@+id/content" />
+
     </RelativeLayout>
 
     <!-- Side navigation drawer UI -->
@@ -43,7 +53,6 @@
         android:layout_width="200dp"
         android:layout_height="match_parent"
         android:layout_gravity="left|start"
-        android:background="#e7d9fc"
-        android:textColor= "@android:color/white"/>
+        android:background="#e7d9fc" />
 
 </android.support.v4.widget.DrawerLayout>

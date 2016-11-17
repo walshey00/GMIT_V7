@@ -7,9 +7,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by vamsikrishna on 12-Feb-15.
- */
+
 public class SplashScreen extends Activity {
 
     @Override
@@ -21,7 +19,7 @@ public class SplashScreen extends Activity {
         Thread timerThread = new Thread(){
             public void run(){
                 try{
-                    sleep(3000);
+                    sleep(2000);
                 }catch(InterruptedException e){
                     e.printStackTrace();
                 }finally{

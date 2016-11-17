@@ -3,39 +3,309 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_594809199c128807ba777dd13a45137b10b7509a.jar" />
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_38f103e55bdc0f466062887e9ea2178fb31e4a7d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_0a5197e721efc7203cd05ceb89603616a728fa7f.jar" />
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_4e7d41db782001c317cbc28151b6062b52f6ec32.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_a897bf38500609aab101c5139f000dde7186547c.jar" />
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_099316d5f568ae53ba15bd517487f33300e8a054.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\markw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="C:\Users\markw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_43756da653cf23e02e943ae207fbee8ffc97c042.jar" />
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_5426560eda30c09435e61a59e8e1756521bec814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_464577c0eba22838e177035860300e831cec9654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_572df5c446cf3a6e012f749bdb3febc06d5e44e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_3affe582c93261b9b04c6abcc7c9b9fe21cb763a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_f1092d5a3b1ccad17c3698dcaf5215a8b9faeb6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_15296f6d5dde73b7a7ac978e238aca33b95f999d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\.gradle\caches\modules-2\files-2.1\com.pubnub\pubnub-android\3.7.5\d2fca42bd2a37f584bcabeaecdc82fa4c458dd4e\pubnub-android-3.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d2fca42bd2a37f584bcabeaecdc82fa4c458dd4e">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\pubnub-android-3.7.5_62ae3977ee855a85ae8a60c74af1aff66f65bf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_d7c6667f5f776472550d154656726085da30d72d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_462e0fe44a448efac7d4926d550dace29f3ddbd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_44af00e20c18e07959b958b45a61d156ee3f7770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_7f72e944478ba5163444f705d8202dcdba21732d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_4e18430da8f64ac3ea84b460e5405d68dc8e280f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_2d0adbe638882bbd2d56791f9e1d07272e5bac8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d7c0b04b923dbcb3181aaddb6f0e3a6d28f785e">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.davemorrissey.labs-subsampling-scale-image-view-3.2.0_171b0ab0628c93caa2e0e338d6395792141840d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_f6096b933887e22a8ee64946808d3133c3106e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_83ad82d30c9b3e1fa2ca7e29692f9717a54c868b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_97c19f5ac4d5d80bded01b83acbe3ca0376c410d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_655520e15c478cda078343e6049cc27b1a8674a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_bf7552306fc38742ca314a54a2ad2ddb54265ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_de68413369fce51a4c5b174f7bc705db97fa31d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_4272b0ec6a7d7f293f8ec955e3b2c0110e2657a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_063e86999d54f9b92302163979fe95f5da1ee211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_22ecc15bcbc33686f7f1c73e41eb52a3b46de143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_cc622e4e785c573a11f081c6b4679aaf081cc8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_7125d430fc30275341306033a216f0c7b0ba3fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_21d25e0125741ebc8d3b11266b72c415dec54528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_629dcbf2fe8e82123e84f7da778d7ca17a333fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.indooratlas.android\indooratlas-android-sdk\2.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d6ee190977023891cc25995256d6c8cca81f6b1">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.indooratlas.android-indooratlas-android-sdk-2.2.4_ccc3ac4a3969c3cd417c86919beb6e00690d638f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_c408408ae05dc4797f6d84215154648e8eb5b8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_76637523c91d01837a9d795a4804e4d1a36405e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\markw\AndroidStudioProjects\GMITAPP-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_992839dc5a82f14bc8b1112e750dafb0114c6033.jar" />
     </item>
 
 </items>
